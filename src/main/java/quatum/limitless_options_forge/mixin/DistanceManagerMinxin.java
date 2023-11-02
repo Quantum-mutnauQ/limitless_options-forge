@@ -1,11 +1,9 @@
 package quatum.limitless_options_forge.mixin;
 
 import net.minecraft.server.level.DistanceManager;
-import net.minecraft.server.level.FullChunkStatus;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.ModifyArg;
-import org.spongepowered.asm.mixin.injection.Slice;
 
 @Mixin(DistanceManager.class)
 public class DistanceManagerMinxin {

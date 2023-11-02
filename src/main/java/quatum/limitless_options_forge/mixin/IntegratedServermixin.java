@@ -1,7 +1,6 @@
 package quatum.limitless_options_forge.mixin;
 
 import net.minecraft.client.server.IntegratedServer;
-import net.minecraft.util.Mth;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Redirect;

@@ -1,6 +1,5 @@
 package quatum.limitless_options_forge.mixin;
 
-import com.mojang.datafixers.util.Either;
 import com.mojang.serialization.Codec;
 import net.minecraft.client.OptionInstance;
 import net.minecraftforge.api.distmarker.Dist;
