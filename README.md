@@ -1,4 +1,5 @@
-Download on curseforge: https://www.curseforge.com/minecraft/mc-mods/limitless-options-forge
+# Download on curseforge: https://www.curseforge.com/minecraft/mc-mods/limitless-options-forge
+
 In the normal configuration you can go up to the highest settings. In the text file you are able to put the settings higher. But the limits will be put down back again. To prevent the resent you can use the "Limitless options".
 
 Limitless options allow to set options values out of the range. For example a Gamma from 2000%. If you set an value out of the range, it may can brake something, please be careful.
